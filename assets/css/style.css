@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/earlyaccess/amiri.css');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a {
+    font-family: 'Amiri', sans-serif;
+}
+
+/* start of header */
+header img {
+    width: 100%;
+}
+
+/* end of header */
+
+.cup-icon {
+    color: #DCA94C;
+}
+
+.links-soc {
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+}
+
+.link-insta {
+    color: #8a3ab9;
+}
+
+.link-snap {
+    color: #BB8C3A;
+}
+
+/* .link-tik{
+    color: #FFFC00;
+} */
